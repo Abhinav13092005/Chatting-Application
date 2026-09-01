@@ -1,5 +1,9 @@
 # 💬 Chatting Application
 
+## 🌐 Live Demo
+
+[Open Chatting Application](https://abhinav13092005.github.io/Chatting-Application/)
+
 A simple and responsive chatting application built using **HTML, CSS and JavaScript**.
 
 ## 🚀 Features
